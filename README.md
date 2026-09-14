@@ -255,4 +255,4 @@ This repository serves as the official landing page for NARAKA: BLADEPOINT. The 
 **Get the most recent version of NARAKA: BLADEPOINT today!**
 
 ---
-**Last updated:** 2026-09-14 10:24:14 UTC
+**Last updated:** 2026-09-14 16:50:52 UTC
